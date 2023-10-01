@@ -28,9 +28,8 @@ The file `image_cropping_tool.py` provides a simple GUI tool for cropping images
 The script `cancer_detection.py` uses TensorFlow and a pre-trained MobileNet V2 model from TensorFlow Hub to predict if an input image contains cancer.
 
 ![image](https://github.com/VagelisKormazos/BezierSeg-Curves/assets/100516014/6509993c-eba7-4f4a-8505-ffeb5ba5913f)
-
-The model recognize the cancer:
 ![image](https://github.com/VagelisKormazos/BezierSeg-Curves/assets/100516014/974c193a-87da-4ccd-ba3d-6abdd9e5b664)
+The model recognized the cancer.
 
 # Image Processing and Cancer Detection
 
